@@ -1,0 +1,90 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wextra",
+      "-Wall",
+      "-Werror",
+      "-c",
+      "-I",
+      "./includes",
+      "-I",
+      "./lib/minilibx/",
+      "-I",
+      ".",
+      "-I./lib/libft/includes",
+      "-o",
+      "objs/init.o",
+      "srcs/init.c"
+    ],
+    "directory": "/Users/asier/docker_workspace/fractol",
+    "file": "/Users/asier/docker_workspace/fractol/srcs/init.c",
+    "output": "/Users/asier/docker_workspace/fractol/objs/init.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wextra",
+      "-Wall",
+      "-Werror",
+      "-c",
+      "-I",
+      "./includes",
+      "-I",
+      "./lib/minilibx/",
+      "-I",
+      ".",
+      "-I./lib/libft/includes",
+      "-o",
+      "objs/render.o",
+      "srcs/render.c"
+    ],
+    "directory": "/Users/asier/docker_workspace/fractol",
+    "file": "/Users/asier/docker_workspace/fractol/srcs/render.c",
+    "output": "/Users/asier/docker_workspace/fractol/objs/render.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wextra",
+      "-Wall",
+      "-Werror",
+      "-c",
+      "-I",
+      "./includes",
+      "-I",
+      "./lib/minilibx/",
+      "-I",
+      ".",
+      "-I./lib/libft/includes",
+      "-o",
+      "objs/main.o",
+      "srcs/main.c"
+    ],
+    "directory": "/Users/asier/docker_workspace/fractol",
+    "file": "/Users/asier/docker_workspace/fractol/srcs/main.c",
+    "output": "/Users/asier/docker_workspace/fractol/objs/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wextra",
+      "-Wall",
+      "-Werror",
+      "-c",
+      "-I",
+      "./includes",
+      "-I",
+      "./lib/minilibx/",
+      "-I",
+      ".",
+      "-I./lib/libft/includes",
+      "-o",
+      "objs/error.o",
+      "srcs/error.c"
+    ],
+    "directory": "/Users/asier/docker_workspace/fractol",
+    "file": "/Users/asier/docker_workspace/fractol/srcs/error.c",
+    "output": "/Users/asier/docker_workspace/fractol/objs/error.o"
+  }
+]
